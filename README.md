@@ -64,7 +64,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=alberthaciverdiyev1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
   <img width="9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberthaciverdiyev1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="width: 30%; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberthaciverdiyev1&theme=dark&locale=en&include_all_commits=true&count_private=true&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="width: 30%; margin-right: 10px;"/>
   <img width="9" />
   <img height="132" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="GIF" style="margin-left: auto;"/>
 </div>
