@@ -80,6 +80,4 @@
 
 <br clear="both">
 
-<img align="right" height="149" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif"  />
-
-###
+<img align="right" height="149" src="URL_to_your_GIF" alt="GIF Description"  />
