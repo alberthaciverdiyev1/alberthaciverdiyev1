@@ -18,9 +18,7 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="9" />
-<br clear="both">
-  
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
@@ -30,17 +28,13 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="9" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
-  <img width="9" />
-<br clear="both">
-  
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="9" />
-<br clear="both">
-  
+  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
