@@ -62,7 +62,7 @@
 
 <br clear="both">
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberthaciverdiyev1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alberthaciverdiyev1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
   <img width="9" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberthaciverdiyev1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" style="width: 30%; margin-right: 10px;"/>
   <img width="9" />
