@@ -66,7 +66,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberthaciverdiyev1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" style="width: 30%;"/>
   
-  <img align="right" height="150" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="GIF"/>
+  <img align="right" height="132" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="GIF"/>
 </div>
 
 
