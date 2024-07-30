@@ -75,13 +75,12 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/ishahajiverdiyev" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   </a>
-<img width="9" />  <a href="https://linkedin.com/in/yourusername" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-<img width="9" />  <a href="https://instagram.com/yourusername" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />  </a>
-  </a>
+<img width="9" /> 
+  <a href="https://www.linkedin.com/in/albert-haciverdiyev-983255259" target="_blank">  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />  </a>
+<img width="9" />
+    <a href="https://instagram.com/albert.apk" target="_blank">  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />  </a>
 </div>
 
