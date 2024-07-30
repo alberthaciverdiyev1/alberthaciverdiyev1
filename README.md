@@ -41,7 +41,7 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="9" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="9" />
