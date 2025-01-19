@@ -15,8 +15,6 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="9" />  
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
