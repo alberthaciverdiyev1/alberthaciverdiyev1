@@ -54,6 +54,8 @@
 
 <br clear="both">
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alberthaciverdiyev1&theme=dark&hide_border=false&count_private=true" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
+  <img width="9" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberthaciverdiyev1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" style="width: 29%; margin-right: 10px;"/>
   <img width="9" />
   <img height="132" src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="GIF" style="margin-left: auto;"/>
@@ -65,9 +67,6 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/ishahajiverdiyev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  </a>
 <img width="9" /> 
   <a href="https://instagram.com/albert.apk" target="_blank">  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />  </a>
 <img width="9" />
