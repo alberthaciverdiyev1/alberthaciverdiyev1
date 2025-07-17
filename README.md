@@ -1,14 +1,6 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/alberthaciverdiyev1/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
