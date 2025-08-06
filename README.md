@@ -42,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
-###
-
 <br clear="both">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=alberthaciverdiyev1&theme=dark&hide_border=false&count_private=true" alt="stats graph" style="width: 37%; margin-right: 10px;"/>
